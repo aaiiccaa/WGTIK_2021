@@ -64,9 +64,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #212927;
   text-align: left;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #f07167;
+  color: #13dbb6;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #d6370c;
+  color: #0cd69d;
   text-decoration: underline;
 }
 
@@ -1713,7 +1713,7 @@ pre code {
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #f9ad99;
+  border-color: #99f9dc;
 }
 
 .table-hover .table-primary:hover {
@@ -2438,12 +2438,12 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f07167;
+  background-color: #0b9c8d;
   border-color: #f07167;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
+  background-color: #076158;
   border-color: #ee3e0d;
 }
 .btn-primary:focus, .btn-primary.focus {
@@ -6073,7 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f07167 !important;
+  background-color: #38b5a9 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10123,8 +10123,8 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
-  transition: opacity 0.25s ease;
+  background: #14a394;
+  transition: opacity 0.8s ease;
   text-align: center;
 }
 #github .container-fluid .portfolio-box .portfolio-box-caption .project-category, #github .container-sm .portfolio-box .portfolio-box-caption .project-category, #github .container-md .portfolio-box .portfolio-box-caption .project-category, #github .container-lg .portfolio-box .portfolio-box-caption .project-category, #github .container-xl .portfolio-box .portfolio-box-caption .project-category {
